@@ -46,8 +46,8 @@ I believe the best systems are ones that feel inevitable — not because they we
 
 ### 📈 Stats & Activity
 
-![algophile's GitHub stats](https://github-readme-stats.vercel.app/api?username=algophile&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algophile&layout=compact&theme=tokyonight)
+![algophile's GitHub stats](https://github-readme-stats.vercel.app/api?username=algophilee&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=algophilee&layout=compact&theme=tokyonight)
 
 ---
 
